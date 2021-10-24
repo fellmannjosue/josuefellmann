@@ -1,38 +1,51 @@
-paso 1
+paso 1 ver imagen paso 1
 entrar a aws (amazon wdb services)
-paso 2
+
+paso 2 ver imagen paso 2  
 buscar en el buscador ec2
-paso 3
+
+paso 3 ver imagen paso 3
 ir a la opcion que dice instances
-paso 4
+
+paso 4 ver imagen paso 4
 abrir el boton naraja que dice (launch instances)
-paso 5
+
+paso 5 ver imagen paso 5
 selecionar el sitema operaativo (Amazon linux AMI ) 
-paso 6
+
+paso 6 ver imagen paso 6
 elegir el tipo de instances (t2 micro)
-paso 7
+
+paso 7 ver imagen paso 7
 Configurar los detalles de la instancia
  a. verificar la region que este en (N. Virginia)
  b. en donde dice subnet elegir la primera opcion que es (us-east-1a)
  c. donde dice auto-assign elegir enable
-paso 8
+ 
+paso 8 ver imagen paso 8
 en este paso solo se da next (no se toca nada)
-paso 9
+
+paso 9 ver imagen paso 9
 agregar un tag
  a.presionar donde dice add tag
  b. donde dice key escribribir (Name)
  c.domde dice Value escribir su nombre
-paso 10
+ 
+paso 10 ver imagen paso 10
 en este paso configuramos los protocolos de seguridad
 a. donde dice security group name aparecera lo siguiente: launch-wizard-2(aca debes poner un guion despues tu nombre)
-paso 11
+
+paso 11 ver imagen paso 11
 precionar en le boton azul y eligir el primer selector y luego la tercera opcion que es: proceed witout a key pair y por ultimo 
 preciona en el chek box y precionar el boton azul que dice launch instances
-paso 12
+
+paso 12 ver imagen paso 12
 The following instance launches have been initiated: precionar en este link (depende como diga el suyo)
-ejemplo:(i-08155802e003ebb33) 
-paso 13
+ejemplo:(i-08155802e003ebb33)
+
+paso 13 ver imagen paso 13
 despues de haver dado click en el link le regresara al dasboard de instances ahi le aparecera que la instacia ya esta en runnig
-paso 14
+
+paso 14 ver imagen paso 14
 primero selecinar su instacia luego ir donde dice action y darle connect luego le aparecera una pestaña que dira ec2 instances connect y 
 darle al boton naranja que diga connect
