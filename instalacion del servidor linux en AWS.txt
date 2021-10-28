@@ -12,3 +12,10 @@
 8)instalar pm2 npm install -g pm2
 9) arancar proyecto pm2 start app.js
 10) escribir curl localhost:5000
+11) instalacion de nginx
+$ sudo amazon-linux-extras list | grep nginx
+$ sudo amazon-linux-extras enable nginx1      
+
+$ sudo yum clean metadata
+$ sudo yum -y install nginx  
+$ nginx -v
