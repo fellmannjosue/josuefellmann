@@ -1,0 +1,8 @@
+1) ir a la instances
+2)selecionar su instancia
+3) al selecionar le aparecera varias pestañas elija security
+4)al selecionar en security ir a security group
+5)luego selecionar el boton que dice edit inbound rules
+6)ahi se debe agregar dos rules
+- el primero se debe poner en type: custom tcp 
+- luego en la ip poner anywhere
