@@ -1,0 +1,14 @@
+1) sudo yum update
+2)sudo yum install git
+3)instalacion de node
+      a. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
+      b. . ~/.nvm/nvm.sh
+      c. nvm install node
+      d. node -e "console.log('Running Node.js ' + process.version)"
+4) git clone https://github.com/abkunal/Chat-App-using-Socket.io.git
+5) usar el comand ls
+6) luego usar cd con el nombre de la carpeta
+7) npm istall
+8)instalar pm2 npm install -g pm2
+9) arancar proyecto pm2 start app.js
+10) escribir curl localhost:5000
